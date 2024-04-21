@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Information technology
 - 💞️ I’m looking to collaborate on IT field
 - 📫 Contact me via github or email
-- 😄 Pronouns: communication
+- 😄 Pronouns: 
 - ⚡ Fun fact: I love sci-fi movies
 
 <!---
